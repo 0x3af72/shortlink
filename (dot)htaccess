@@ -1,0 +1,9 @@
+<Files "secret">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Directory "/links">
+    Order Allow,Deny
+    Deny from all
+</Directory>
